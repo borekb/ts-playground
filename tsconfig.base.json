@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "declarationMap": true,
+        "strict": true,
+        "declaration": true,
+        "composite": true
+    }
+}

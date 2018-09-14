@@ -1,0 +1,7 @@
+{
+    "extends": "../tsconfig.root-tpl.json",
+    "include": [
+        "src",
+        "tests"
+    ]
+}

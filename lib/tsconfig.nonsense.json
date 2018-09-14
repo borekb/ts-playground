@@ -1,0 +1,6 @@
+{
+    "extends": "./sdfsdfsdf",
+    "include": [
+        "src"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tsc": "tsc --noEmit",
+    "tsc-b": "tsc -b"
+  },
+  "dependencies": {
+    "lib": "file:../lib"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}

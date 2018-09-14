@@ -1,0 +1,13 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/util.js",
+  "scripts": {
+    "tsc": "tsc -b tsconfig.json",
+    "tsc-b": "tsc -b tsconfig.dist.json"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "extends": "./tsconfig.root2-tpl.json",
+    "compilerOptions": {
+        "noEmit": false
+    }
+}
